@@ -1,4 +1,4 @@
-Algoritmo "olamundo"
+Algoritmo "OlaMundo"
 
 // Disciplina  : Algoritmos
 // Professor   : Gustavo Guanabara

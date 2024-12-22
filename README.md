@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <img src="/Materiais/CursoEmVideo-Algoritmos-Logo.jpg" alt="Curso em Vídeo - Algoritmos"">
+    <img src="/Materiais/CursoEmVideo_-_Algoritmos_-_Logo.jpg" alt="Curso em Vídeo - Algoritmos"">
 </p>   
 
 <p align="center">

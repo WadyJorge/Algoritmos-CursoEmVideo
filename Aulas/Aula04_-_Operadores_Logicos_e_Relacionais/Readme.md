@@ -1,4 +1,4 @@
-## 📚 Explicação 
+## 📚 Explicação:
 
 OPERADORESRELACIONAIS.ALG
 

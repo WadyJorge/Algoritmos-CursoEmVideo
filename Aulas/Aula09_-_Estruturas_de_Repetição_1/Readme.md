@@ -16,7 +16,7 @@ CONTADOR04.ALG
 
 * Realiza uma contagem até o número escolhido pelo usuário, permitindo definir o salto entre os números.  
 
-CONTADORINTELIGENTE
+CONTADORINTELIGENTE.ALG
 
 * Efetua uma contagem positiva ou regressiva de forma inteligente, dependendo da ordem dos números inseridos.  
 

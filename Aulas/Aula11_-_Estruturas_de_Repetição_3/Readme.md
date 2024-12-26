@@ -1,4 +1,4 @@
-## 📚 Explicação:
+## 📚 Explicação
 
 ANALISADORVALORES.ALG
 

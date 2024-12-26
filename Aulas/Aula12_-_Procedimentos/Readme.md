@@ -1,4 +1,4 @@
-## 📚 Explicação:
+## 📚 Explicação
 
 DETECTORPESADOS.ALG
 

@@ -1,4 +1,4 @@
-## 📚 Explicação:
+## 📚 Explicação
 
 CREUZA01.ALG
 

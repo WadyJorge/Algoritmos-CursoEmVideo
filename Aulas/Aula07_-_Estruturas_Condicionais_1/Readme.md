@@ -1,4 +1,4 @@
-## 📚 Explicação:
+## 📚 Explicação
 
 CALCULOIDADE.ALG
 

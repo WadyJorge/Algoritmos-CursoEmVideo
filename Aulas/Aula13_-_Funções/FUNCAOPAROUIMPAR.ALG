@@ -18,7 +18,7 @@ Inicio
 
    Se(valor % 2 = 0) entao
       Retorne "Par"
-   senao
+   Senao
       Retorne "Impar"
    FimSe
 

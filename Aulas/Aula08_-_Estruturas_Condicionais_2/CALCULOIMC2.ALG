@@ -13,7 +13,6 @@ Var
 
 Inicio
 
-   // Funções
    Escreval ("Massa (Kg): ")
    Leia (massa)
    Escreval ("Altura (m): ")

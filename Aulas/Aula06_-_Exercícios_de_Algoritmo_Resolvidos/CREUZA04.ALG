@@ -13,7 +13,6 @@ Var
    
 Inicio
 
-	// Funções 
 	Escreval ("Qual é o preço do produto? ")
 	Leia (preco)
    imposto <- (preco * 60) / 100

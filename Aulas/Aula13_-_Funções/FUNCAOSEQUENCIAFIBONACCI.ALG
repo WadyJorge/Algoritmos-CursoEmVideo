@@ -19,6 +19,7 @@ Var
    C: inteiro
 
 Inicio
+
    C <- A + B
    A <- B
    B <- C

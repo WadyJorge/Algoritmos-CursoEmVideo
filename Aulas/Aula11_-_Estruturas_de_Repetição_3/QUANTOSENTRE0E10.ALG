@@ -13,7 +13,6 @@ Var
 
 Inicio
 
-      // Funções
       soma <- 0
       
       Para contador <- 1 ate 6 faca

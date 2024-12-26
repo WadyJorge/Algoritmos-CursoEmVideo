@@ -14,7 +14,6 @@ Var
 
 Inicio
 
-   // Funções
    soma <- 0
    Repita
       Escreval("Digite o valor: ")

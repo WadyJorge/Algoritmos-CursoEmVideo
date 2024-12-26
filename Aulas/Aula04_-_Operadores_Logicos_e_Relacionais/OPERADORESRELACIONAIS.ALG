@@ -14,7 +14,6 @@ Var
    
 Inicio
 
-	// Funções 
 	Escreva ("Digite o valor do primeiro lado: ")
 	Leia (L1)
 	Escreva ("Digite o valor do segundo lado: ")

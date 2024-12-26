@@ -13,7 +13,6 @@ Var
 
 Inicio
 
-   // Funções
    Escreval ("Primeira Nota: ")
    Leia (n1)
    Escreval ("Segunda Nota): ")

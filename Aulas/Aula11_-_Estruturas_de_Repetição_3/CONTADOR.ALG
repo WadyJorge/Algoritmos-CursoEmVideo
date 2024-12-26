@@ -13,7 +13,6 @@ Var
 
 Inicio
 
-   // Funções
    Escreval("Olá! Sou um contador! Conto até 10!")
    
    Para contador <- 1 ate 10 faca

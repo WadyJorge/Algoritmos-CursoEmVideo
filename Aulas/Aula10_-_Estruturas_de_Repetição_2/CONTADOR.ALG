@@ -13,7 +13,6 @@ Var
 
 Inicio
 
-   // Funções
    contador <- 1
    Repita
       Escreval(contador)

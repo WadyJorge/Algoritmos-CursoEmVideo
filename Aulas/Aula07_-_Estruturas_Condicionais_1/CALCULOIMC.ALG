@@ -13,19 +13,18 @@ Var
 
 Inicio
 
-   // Funções
-   Escreval ("Massa (KG): ")
+   Escreval ("Massa (Kg): ")
    Leia (massa)
-   Escreval ("Altura (M): ")
+   Escreval ("Altura (m): ")
    Leia (altura)
-   
+
    imc <- massa / (altura ^ 2)
    Escreval ("IMC: ", imc:5:2)
-   
+
    Se (imc >= 18.5) e (imc <= 25) entao
       Escreval ("Parabéns! Você está em seu peso ideal!")
    Senao
       Escreval ("Você não está na faixa de peso ideal!")
    FimSe
-   
+
 Fimalgoritmo

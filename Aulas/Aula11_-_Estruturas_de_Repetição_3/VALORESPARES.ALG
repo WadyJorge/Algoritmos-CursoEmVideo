@@ -13,7 +13,6 @@ Var
 
 Inicio
 
-   // Funções
    Escreval("Digite um valor para ver todos os números pares antes dele: ")
    Leia(numero)
    

@@ -13,7 +13,6 @@ Var
 
 Inicio
 
-   // Funções
    contador <- 1
    Escreval("Gostaria de verificar a tabuada de qual número? ")
    Leia(numero)

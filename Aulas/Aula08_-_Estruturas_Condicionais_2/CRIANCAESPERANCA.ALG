@@ -13,7 +13,6 @@ Var
 
 Inicio
 
-   // Funções
    Escreval ("-----------------------------")
    Escreval ("      CRIANÇA ESPERANÇA      ")
    Escreval ("-----------------------------")

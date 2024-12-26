@@ -14,7 +14,6 @@ Var
 
 Inicio
 
-   // Funções
    soma <- 0
    resposta <- "s"
    Enquanto (resposta = "s") faca

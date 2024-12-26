@@ -13,7 +13,6 @@ Var
 
 Inicio
 
-   // Funções
    contador <- 1
    contDiv <- 0
    Escreva("Digite um número: ")

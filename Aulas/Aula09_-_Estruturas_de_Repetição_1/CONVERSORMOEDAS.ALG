@@ -14,7 +14,6 @@ Var
 
 Inicio
 
-   // Funções
    C <- 1
    Escreval ("Quantas vezes você deseja converter? ")
    Leia (Q)

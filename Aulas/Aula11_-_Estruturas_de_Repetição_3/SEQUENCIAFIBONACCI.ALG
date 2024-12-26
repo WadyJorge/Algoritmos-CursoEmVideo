@@ -13,7 +13,6 @@ Var
 
 Inicio
 
-   // Funções
    Escreval(0)
    Escreval(1)
    anterior1 <- 0

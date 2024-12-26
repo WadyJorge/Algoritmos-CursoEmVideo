@@ -13,7 +13,6 @@ Var
 
 Inicio
 
-   // Funções
    total <- 0
    soma <- 0
 

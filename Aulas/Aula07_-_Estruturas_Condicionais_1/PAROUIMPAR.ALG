@@ -13,7 +13,6 @@ Var
 
 Inicio
 
-   // Funções
    Escreval ("Digite um número qualquer: ")
    Leia (numero)
 

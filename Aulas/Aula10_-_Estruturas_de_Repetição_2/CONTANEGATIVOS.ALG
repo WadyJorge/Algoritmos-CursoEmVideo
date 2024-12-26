@@ -13,7 +13,6 @@ Var
 
 Inicio
 
-   // Funções
    contador <- 1
    negativos <- 0
    Repita

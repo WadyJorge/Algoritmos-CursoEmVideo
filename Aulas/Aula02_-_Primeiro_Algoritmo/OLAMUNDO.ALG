@@ -14,7 +14,6 @@ Var
    
 Inicio
 
-	// Funções 
 	msg <- "Olá, mundo!"
 	msg2 <- "Me livrei da maldição!"
 	Escreval (msg)

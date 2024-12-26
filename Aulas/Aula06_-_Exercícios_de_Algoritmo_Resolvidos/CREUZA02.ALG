@@ -13,7 +13,6 @@ Var
    
 Inicio
 
-	// Funções 
 	Escreval ("Quantos R$ eu tenho? ")
 	Leia (reais)
    dolares <- reais / 6

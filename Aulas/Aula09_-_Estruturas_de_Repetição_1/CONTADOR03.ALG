@@ -13,7 +13,6 @@ Var
 
 Inicio
 
-   // Funções
    Escreva("Olá! Sou um contador! Digite até quanto você quer contar: ")
    Leia(valor)
 

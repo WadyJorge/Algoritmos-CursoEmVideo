@@ -13,7 +13,6 @@ Var
    
 Inicio
 
-	// Funções 
 	Escreval ("Em que ano nós estamos? ")
 	Leia (ano_atual)
 	Escreval ("Em que ano eu nasci? ")

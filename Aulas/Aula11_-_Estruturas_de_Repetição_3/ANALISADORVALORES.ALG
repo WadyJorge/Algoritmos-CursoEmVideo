@@ -13,7 +13,6 @@ Var
 
 Inicio
 
-      // Funções
       soma <- 0
       divisivel5 <- 0
       nulo <- 0

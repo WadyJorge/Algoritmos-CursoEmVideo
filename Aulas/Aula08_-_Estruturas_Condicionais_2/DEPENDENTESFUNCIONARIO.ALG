@@ -15,7 +15,6 @@ Var
 
 Inicio
 
-   // Funções
    Escreval ("Qual o nome do funcionário?")
    Leia (nome)
    Escreval ("Qual o salário do funcionário?")

@@ -13,7 +13,6 @@ Var
 
 Inicio
 
-   // Funções
    Escreva("Digite um número: ")
    Leia(numero)
    contador <- numero

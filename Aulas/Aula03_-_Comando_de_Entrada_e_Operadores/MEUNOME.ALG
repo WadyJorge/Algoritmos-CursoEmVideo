@@ -13,7 +13,6 @@ Var
    
 Inicio
 
-	// Funções 
 	Escreva ("Digite seu nome: ")
 	Leia (nome)
 	Escreva ("Muito prazer, ", nome, "!")

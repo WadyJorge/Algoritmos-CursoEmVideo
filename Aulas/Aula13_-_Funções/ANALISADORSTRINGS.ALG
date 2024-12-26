@@ -12,7 +12,6 @@ Var
    nome: caractere
    contador: inteiro
 
-
 Inicio
 
    // Usuário insere uma sequência string para análise

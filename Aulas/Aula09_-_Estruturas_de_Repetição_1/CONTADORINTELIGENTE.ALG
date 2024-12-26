@@ -13,7 +13,6 @@ Var
 
 Inicio
 
-   //Funções
    Escreval("--------------------------------")
    Escreval("      CONTADOR INTELIGENTE")
    Escreval("--------------------------------")

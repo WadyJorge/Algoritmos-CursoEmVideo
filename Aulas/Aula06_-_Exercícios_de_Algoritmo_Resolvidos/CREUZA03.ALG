@@ -13,7 +13,6 @@ Var
    
 Inicio
 
-	// Funções 
 	Escreval ("Qual é a temperatura aqui? ")
 	Leia (F)
    C <- (F - 32) / 1.8

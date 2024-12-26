@@ -13,7 +13,6 @@ Var
    
 Inicio
 
-	// Funções 
 	Escreval("Qual o valor do empréstimo? ")
 	Leia (emprestimo)
    Escreval("Em quantas parcelas você gostaria de pagar?")

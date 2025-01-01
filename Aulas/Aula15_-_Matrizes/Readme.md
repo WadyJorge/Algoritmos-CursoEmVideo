@@ -1,5 +1,9 @@
 ## 📚 Explicação
 
+JOGODAVELHA.ALG
+
+* Cria um jogo da velha utilizando o conteúdo abordado.
+
 LERMATRIZ.ALG
 
 * Permite que o usuário insira valores para criar uma matriz.

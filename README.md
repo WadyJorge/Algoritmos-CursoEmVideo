@@ -26,4 +26,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 --------------
 
-Desenvolvido por 🍁 [**Wady Jorge**](https://github.com/WadyJorge)
+Desenvolvido por [**Wady Jorge**](https://github.com/WadyJorge)
